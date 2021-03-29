@@ -1,0 +1,10 @@
+.container {
+    height: 100vh;
+    width: auto;
+    display: flex;
+}
+
+.main-field {
+    align-self: center;
+    margin-left: 30%;
+}
